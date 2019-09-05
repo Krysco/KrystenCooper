@@ -59,6 +59,7 @@ body {
 .about {
     padding-top: 100px;
     padding-bottom: 50px;
+    position: relative;
 }
 .profile-img {
     height: 400px;
